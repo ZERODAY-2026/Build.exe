@@ -1,6 +1,6 @@
 # Build.exe
-# Private Legal Document Triage Agent
-
+# PLATO: Private Legal Agent for Triage & Operations
+PS2 — Agentic AI: Private Legal Document Triage Agent
 **An offline-first AI assistant that helps people understand legal documents while keeping their private information on their own device.**
 
 > **Project status:** 🚧 Active development  
