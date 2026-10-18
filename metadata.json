@@ -1,0 +1,6 @@
+{
+  "name": "Gemma 4 Local Studio",
+  "description": "Crisp ChatGPT and Gemini styled offline interface for local Gemma 4 inference, PDF interrogation, voice dictation, chat history, and offline export.",
+  "requestFramePermissions": ["clipboard-read", "clipboard-write", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
